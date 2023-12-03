@@ -1,0 +1,8 @@
+{
+    "usuarios": [
+      { "usuario": "ana", "contrasena": "123" },
+      { "usuario": "maria", "contrasena": "222" },
+      { "usuario": "mami", "contrasena": "2023M" }
+    ]
+  }
+  
